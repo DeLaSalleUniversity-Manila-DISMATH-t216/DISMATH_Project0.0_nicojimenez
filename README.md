@@ -13,7 +13,5 @@
 ![ScreenShot](Blocks_Screen2.png)
 
 ## Device Screenshots
-* Screen1
 ![ScreenShot](Device_Screen1.png)
-* Screen2
 ![ScreenShot](Device_Screen2.png)
