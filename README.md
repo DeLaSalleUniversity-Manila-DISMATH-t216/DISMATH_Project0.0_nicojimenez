@@ -4,10 +4,10 @@
 ![ScreenShot](Designer_Screen1.png)
 ![ScreenShot](Designer_Screen2.png)
 
-## Blocks Screenshots 
-![ScreenShot](Block_Screen1.png)
-![ScreenShot](Block_Screen2.png)
+## Blocks Screenshots
+![ScreenShot](Blocks_Screen1.png)
+![ScreenShot](Blocks_Screen2.png)
 
-## Device Screenshots 
-![ScreenShot](Screenshot_Screen1.png)
-![ScreenShot](Screenshot_Screen2.png)
+## Device Screenshots
+![ScreenShot](Device_Screen1.png)
+![ScreenShot](Device_Screen2.png)
