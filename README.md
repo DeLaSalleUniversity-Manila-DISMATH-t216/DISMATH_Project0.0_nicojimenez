@@ -37,8 +37,11 @@
 ## Device Screenshots
 ![ScreenShot](SS1.png)
 * Linear
+
 ![ScreenShot](SS2.png)
 ![ScreenShot](SS4.png)
+
 * Binary
+
 ![ScreenShot](SS3.png)
 ![ScreenShot](SS5.png)
